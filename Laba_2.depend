@@ -23,13 +23,13 @@
 	"Sequence.h"
 	"LinkedList.h"
 
-1589931798 c:\users\dima\documents\prog\laba_2\include\sequence.h
+1589965366 c:\users\dima\documents\prog\laba_2\include\sequence.h
 
 1589963079 c:\users\dima\documents\prog\laba_2\include\arraysequence.h
 	<iostream>
 	"Sequence.h"
 	"DynamicArray.h"
 
-1589963980 c:\users\dima\documents\prog\laba_2\include\dynamicarray.h
+1589964846 c:\users\dima\documents\prog\laba_2\include\dynamicarray.h
 	<iostream>
 

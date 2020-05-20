@@ -16,6 +16,7 @@ class Sequence
         virtual void Set(T item, int index) = 0;
         virtual void Erase(int index) = 0;
         virtual void Concat(Sequence<T> *list) = 0;
+        virtual void EraseAllOf(bool *f(T item)) = 0;
 
 };
 

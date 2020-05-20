@@ -107,10 +107,11 @@ void DynamicArray<T>::Resize(int newsize)
 {
     if(newsize!=len)
     {
+        T *newdata;
         if(newsize!=0)
-            T *newdata = new T[newsize];
+            newdata = new T[newsize];
         else
-            T *newdata = nullptr;
+            newdata = nullptr;
         for(int i=0;i<newsize && i<len;++i)
             newdata[i] = this->Get(i);
         len = newsize;
