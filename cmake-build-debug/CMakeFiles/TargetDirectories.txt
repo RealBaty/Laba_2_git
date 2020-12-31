@@ -1,0 +1,3 @@
+C:/Users/Dima/CLionProjects/LabaAll/cmake-build-debug/CMakeFiles/LabaAll.dir
+C:/Users/Dima/CLionProjects/LabaAll/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dima/CLionProjects/LabaAll/cmake-build-debug/CMakeFiles/rebuild_cache.dir
